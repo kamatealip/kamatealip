@@ -1,89 +1,105 @@
 <div align="center">
 
-<img src="https://camo.githubusercontent.com/be74ad487d253a5d937c2e3a5cae4ece5ed55b14efdcbc9ea8c8a53c51db9dc4/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457862584e6c626a46794e4774756332707562334d3164484d336547783561323033655756704f58566b4d484e75627a52346433687664795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f37633851654230564d6464464f75753469522f67697068792e676966" width="100%" height="350px" style="object-fit: cover; border-bottom: 3px solid #8B5CF6;" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNlbjFyNGtuc2pub3M1dHM3eGx5a203eWVpOXVkMHBzbnR4d3hvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif" width="100%" height="350px"/>
 
-<br><br>
+# 🟢 ALIF KAMATE
 
-# <span style="color:#8B5CF6;">ALIF KAMATE</span>
-### <span style="color:#2F2F2F;">Data Scientist • Machine Learning Engineer</span>
+### Data Scientist • Machine Learning Engineer
 
-<b>Building scalable machine learning systems that move from experimentation to production.</b>
+Building **scalable machine learning systems** that move from **experimentation → production**
 
-<br><br>
+<br>
 
 <a href="https://kamatealif.github.io">
-<img src="https://img.shields.io/badge/Portfolio-2F2F2F?style=for-the-badge&logo=vercel&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22c55e"/>
 </a>
 
-<br><br>
-
 </div>
 
 ---
 
-<div align="center">
-
-## ⚙️ TECH STACK
-
-<br>
+# ⚙️ Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-2F2F2F?style=for-the-badge&logo=python&logoColor=8B5CF6)
-![JavaScript](https://img.shields.io/badge/JavaScript-2F2F2F?style=for-the-badge&logo=javascript&logoColor=8B5CF6)
-![Bash](https://img.shields.io/badge/Bash-2F2F2F?style=for-the-badge&logo=gnu-bash&logoColor=8B5CF6)
-![R](https://img.shields.io/badge/R-2F2F2F?style=for-the-badge&logo=r&logoColor=8B5CF6)
-![C](https://img.shields.io/badge/C-2F2F2F?style=for-the-badge&logo=c&logoColor=8B5CF6)
 
-<br><br>
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=22c55e)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=22c55e)
+![Bash](https://img.shields.io/badge/Bash-0f172a?style=for-the-badge&logo=gnu-bash&logoColor=22c55e)
+![R](https://img.shields.io/badge/R-0f172a?style=for-the-badge&logo=r&logoColor=22c55e)
+![C](https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=22c55e)
 
-### 🧠 ML & Tools
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-2F2F2F?style=for-the-badge&logo=scikit-learn&logoColor=8B5CF6)
-![PyTorch](https://img.shields.io/badge/PyTorch-2F2F2F?style=for-the-badge&logo=pytorch&logoColor=8B5CF6)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2F2F2F?style=for-the-badge&logo=tensorflow&logoColor=8B5CF6)
-![Pandas](https://img.shields.io/badge/Pandas-2F2F2F?style=for-the-badge&logo=pandas&logoColor=8B5CF6)
-![NumPy](https://img.shields.io/badge/NumPy-2F2F2F?style=for-the-badge&logo=numpy&logoColor=8B5CF6)
-![Flask](https://img.shields.io/badge/Flask-2F2F2F?style=for-the-badge&logo=flask&logoColor=8B5CF6)
-![FastAPI](https://img.shields.io/badge/FastAPI-2F2F2F?style=for-the-badge&logo=fastapi&logoColor=8B5CF6)
-![Docker](https://img.shields.io/badge/Docker-2F2F2F?style=for-the-badge&logo=docker&logoColor=8B5CF6)
-![AWS](https://img.shields.io/badge/AWS-2F2F2F?style=for-the-badge&logo=amazon-aws&logoColor=8B5CF6)
-![Git](https://img.shields.io/badge/Git-2F2F2F?style=for-the-badge&logo=git&logoColor=8B5CF6)
+---
+
+### 🧠 ML / Data Tools
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0f172a?style=for-the-badge&logo=scikit-learn&logoColor=22c55e)
+![PyTorch](https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=22c55e)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=22c55e)
+![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=22c55e)
+![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=22c55e)
+
+---
+
+### ⚙️ Backend / MLOps
+
+![Flask](https://img.shields.io/badge/Flask-0f172a?style=for-the-badge&logo=flask&logoColor=22c55e)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=22c55e)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=22c55e)
+![AWS](https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazon-aws&logoColor=22c55e)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=22c55e)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamatealip&show_icons=true&theme=transparent&title_color=22c55e&icon_color=22c55e&text_color=4b5563"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamatealip&layout=compact&theme=transparent&title_color=22c55e"/>
 
 </div>
 
 ---
 
+# 🔥 Commit Streak
+
 <div align="center">
 
-## 📊 ACTIVITY
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamatealif&bg_color=ffffff&color=8B5CF6&line=8B5CF6&point=2F2F2F&area=true&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kamatealip&theme=transparent&ring=22c55e&fire=22c55e&currStreakLabel=22c55e"/>
 
 </div>
 
 ---
 
+# 📈 Contribution Graph
+
 <div align="center">
 
-## 📫 CONNECT
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamatealip&bg_color=ffffff&color=22c55e&line=22c55e&point=065f46&area=true&hide_border=true"/>
 
-<br>
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
 
 <a href="mailto:kamatealip1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-2F2F2F?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=22c55e"/>
 </a>
 
 <a href="https://linkedin.com/in/alip-kamate-722917261">
-<img src="https://img.shields.io/badge/LinkedIn-2F2F2F?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22c55e"/>
 </a>
 
 <a href="https://kaggle.com/yourusername">
-<img src="https://img.shields.io/badge/Kaggle-2F2F2F?style=for-the-badge&logo=kaggle&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Kaggle-0f172a?style=for-the-badge&logo=kaggle&logoColor=22c55e"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=kamatealif&style=for-the-badge&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=kamatealip&style=for-the-badge&color=22c55e"/>
 
 </div>
